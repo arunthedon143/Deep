@@ -49,7 +49,7 @@ header > h1{
 }
 
 header{
-    background-image: url(/bilder/bacground.jpg);
+    background-image: url(./bilder/bacground.jpg);
     background-size: cover;
     padding-top: 1.5rem;
     padding-bottom: 4.5rem;
